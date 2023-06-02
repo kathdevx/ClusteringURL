@@ -1,0 +1,7 @@
+seaborn
+tensorflow
+sklearn
+matplotlib
+seaborn
+munkres
+numpy
